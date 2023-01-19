@@ -1,0 +1,15 @@
+D:\Семинары 13.01-10.02\Task02\obj\Debug\net6.0\Task02.csproj.AssemblyReference.cache
+D:\Семинары 13.01-10.02\Task02\obj\Debug\net6.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинары 13.01-10.02\Task02\obj\Debug\net6.0\Task02.AssemblyInfoInputs.cache
+D:\Семинары 13.01-10.02\Task02\obj\Debug\net6.0\Task02.AssemblyInfo.cs
+D:\Семинары 13.01-10.02\Task02\obj\Debug\net6.0\Task02.csproj.CoreCompileInputs.cache
+D:\Семинары 13.01-10.02\Task02\bin\Debug\net6.0\Task02.exe
+D:\Семинары 13.01-10.02\Task02\bin\Debug\net6.0\Task02.deps.json
+D:\Семинары 13.01-10.02\Task02\bin\Debug\net6.0\Task02.runtimeconfig.json
+D:\Семинары 13.01-10.02\Task02\bin\Debug\net6.0\Task02.dll
+D:\Семинары 13.01-10.02\Task02\bin\Debug\net6.0\Task02.pdb
+D:\Семинары 13.01-10.02\Task02\obj\Debug\net6.0\Task02.dll
+D:\Семинары 13.01-10.02\Task02\obj\Debug\net6.0\refint\Task02.dll
+D:\Семинары 13.01-10.02\Task02\obj\Debug\net6.0\Task02.pdb
+D:\Семинары 13.01-10.02\Task02\obj\Debug\net6.0\Task02.genruntimeconfig.cache
+D:\Семинары 13.01-10.02\Task02\obj\Debug\net6.0\ref\Task02.dll
