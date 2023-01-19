@@ -1,0 +1,15 @@
+D:\Семинары 13.01-10.02\Task15\bin\Debug\net6.0\Task15.exe
+D:\Семинары 13.01-10.02\Task15\bin\Debug\net6.0\Task15.deps.json
+D:\Семинары 13.01-10.02\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+D:\Семинары 13.01-10.02\Task15\bin\Debug\net6.0\Task15.dll
+D:\Семинары 13.01-10.02\Task15\bin\Debug\net6.0\Task15.pdb
+D:\Семинары 13.01-10.02\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+D:\Семинары 13.01-10.02\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинары 13.01-10.02\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+D:\Семинары 13.01-10.02\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+D:\Семинары 13.01-10.02\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+D:\Семинары 13.01-10.02\Task15\obj\Debug\net6.0\Task15.dll
+D:\Семинары 13.01-10.02\Task15\obj\Debug\net6.0\refint\Task15.dll
+D:\Семинары 13.01-10.02\Task15\obj\Debug\net6.0\Task15.pdb
+D:\Семинары 13.01-10.02\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+D:\Семинары 13.01-10.02\Task15\obj\Debug\net6.0\ref\Task15.dll
