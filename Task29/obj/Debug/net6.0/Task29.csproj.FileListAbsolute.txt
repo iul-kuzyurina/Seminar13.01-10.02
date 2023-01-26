@@ -1,0 +1,15 @@
+D:\Семинары 13.01-10.02\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+D:\Семинары 13.01-10.02\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинары 13.01-10.02\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+D:\Семинары 13.01-10.02\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+D:\Семинары 13.01-10.02\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+D:\Семинары 13.01-10.02\Task29\bin\Debug\net6.0\Task29.exe
+D:\Семинары 13.01-10.02\Task29\bin\Debug\net6.0\Task29.deps.json
+D:\Семинары 13.01-10.02\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+D:\Семинары 13.01-10.02\Task29\bin\Debug\net6.0\Task29.dll
+D:\Семинары 13.01-10.02\Task29\bin\Debug\net6.0\Task29.pdb
+D:\Семинары 13.01-10.02\Task29\obj\Debug\net6.0\Task29.dll
+D:\Семинары 13.01-10.02\Task29\obj\Debug\net6.0\refint\Task29.dll
+D:\Семинары 13.01-10.02\Task29\obj\Debug\net6.0\Task29.pdb
+D:\Семинары 13.01-10.02\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
+D:\Семинары 13.01-10.02\Task29\obj\Debug\net6.0\ref\Task29.dll
