@@ -1,0 +1,15 @@
+D:\Семинары 13.01-10.02\Task34\bin\Debug\net6.0\Task34.exe
+D:\Семинары 13.01-10.02\Task34\bin\Debug\net6.0\Task34.deps.json
+D:\Семинары 13.01-10.02\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+D:\Семинары 13.01-10.02\Task34\bin\Debug\net6.0\Task34.dll
+D:\Семинары 13.01-10.02\Task34\bin\Debug\net6.0\Task34.pdb
+D:\Семинары 13.01-10.02\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+D:\Семинары 13.01-10.02\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинары 13.01-10.02\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+D:\Семинары 13.01-10.02\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+D:\Семинары 13.01-10.02\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+D:\Семинары 13.01-10.02\Task34\obj\Debug\net6.0\Task34.dll
+D:\Семинары 13.01-10.02\Task34\obj\Debug\net6.0\refint\Task34.dll
+D:\Семинары 13.01-10.02\Task34\obj\Debug\net6.0\Task34.pdb
+D:\Семинары 13.01-10.02\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+D:\Семинары 13.01-10.02\Task34\obj\Debug\net6.0\ref\Task34.dll
