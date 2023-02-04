@@ -1,0 +1,15 @@
+D:\Семинары 13.01-10.02\Task43\obj\Debug\net6.0\Task43.csproj.AssemblyReference.cache
+D:\Семинары 13.01-10.02\Task43\obj\Debug\net6.0\Task43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинары 13.01-10.02\Task43\obj\Debug\net6.0\Task43.AssemblyInfoInputs.cache
+D:\Семинары 13.01-10.02\Task43\obj\Debug\net6.0\Task43.AssemblyInfo.cs
+D:\Семинары 13.01-10.02\Task43\obj\Debug\net6.0\Task43.csproj.CoreCompileInputs.cache
+D:\Семинары 13.01-10.02\Task43\bin\Debug\net6.0\Task43.exe
+D:\Семинары 13.01-10.02\Task43\bin\Debug\net6.0\Task43.deps.json
+D:\Семинары 13.01-10.02\Task43\bin\Debug\net6.0\Task43.runtimeconfig.json
+D:\Семинары 13.01-10.02\Task43\bin\Debug\net6.0\Task43.dll
+D:\Семинары 13.01-10.02\Task43\bin\Debug\net6.0\Task43.pdb
+D:\Семинары 13.01-10.02\Task43\obj\Debug\net6.0\Task43.dll
+D:\Семинары 13.01-10.02\Task43\obj\Debug\net6.0\refint\Task43.dll
+D:\Семинары 13.01-10.02\Task43\obj\Debug\net6.0\Task43.pdb
+D:\Семинары 13.01-10.02\Task43\obj\Debug\net6.0\Task43.genruntimeconfig.cache
+D:\Семинары 13.01-10.02\Task43\obj\Debug\net6.0\ref\Task43.dll
