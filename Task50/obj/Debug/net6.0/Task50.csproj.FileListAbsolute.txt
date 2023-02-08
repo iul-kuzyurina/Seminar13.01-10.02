@@ -1,0 +1,15 @@
+D:\Семинары 13.01-10.02\Task50\obj\Debug\net6.0\Task50.csproj.AssemblyReference.cache
+D:\Семинары 13.01-10.02\Task50\obj\Debug\net6.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинары 13.01-10.02\Task50\obj\Debug\net6.0\Task50.AssemblyInfoInputs.cache
+D:\Семинары 13.01-10.02\Task50\obj\Debug\net6.0\Task50.AssemblyInfo.cs
+D:\Семинары 13.01-10.02\Task50\obj\Debug\net6.0\Task50.csproj.CoreCompileInputs.cache
+D:\Семинары 13.01-10.02\Task50\bin\Debug\net6.0\Task50.exe
+D:\Семинары 13.01-10.02\Task50\bin\Debug\net6.0\Task50.deps.json
+D:\Семинары 13.01-10.02\Task50\bin\Debug\net6.0\Task50.runtimeconfig.json
+D:\Семинары 13.01-10.02\Task50\bin\Debug\net6.0\Task50.dll
+D:\Семинары 13.01-10.02\Task50\bin\Debug\net6.0\Task50.pdb
+D:\Семинары 13.01-10.02\Task50\obj\Debug\net6.0\Task50.dll
+D:\Семинары 13.01-10.02\Task50\obj\Debug\net6.0\refint\Task50.dll
+D:\Семинары 13.01-10.02\Task50\obj\Debug\net6.0\Task50.pdb
+D:\Семинары 13.01-10.02\Task50\obj\Debug\net6.0\Task50.genruntimeconfig.cache
+D:\Семинары 13.01-10.02\Task50\obj\Debug\net6.0\ref\Task50.dll
