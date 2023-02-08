@@ -51,23 +51,17 @@ void ValueElement(int n1, int n2)
     {
         for(int j = 0; j < key.GetLength(1); j++)
         {
-                        //Console.Write("buu");
             if (n1 == i && n2 == j)
             {
-                
-              //  Console.Write($"{key[n1-1, n2-1]}");
-                Console.Write("ok");
+                Console.Write($"{key[n1-1, n2-1]}");
             }
                         
         }
     }
-    
-    
-    //if (n1 > key.GetLength(0) && n2 > key.GetLength(1))
-    
-    //{
-      //  Console.Write("такого элемента нет");
-    //}
+    if (n1 > key.GetLength(0) && n2 > key.GetLength(1))
+    {
+        Console.Write("такого элемента нет");
+    }
 }
 
 PrintMatrix(key);
