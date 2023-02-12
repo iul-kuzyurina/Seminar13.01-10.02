@@ -38,10 +38,10 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-void Sort(int [,] matrix)
+void FindMinRow(int [,] matrix)
 {
     int min= 0;
-    int index = 0;
+    int row = 0;
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         int sum = 0;        
@@ -56,15 +56,15 @@ void Sort(int [,] matrix)
         else if (sum < min)
         {
             min = sum;
-            index=i;
+            row=i;
         }
                     
     }    
-    Console.WriteLine( $"Итог: {index+1} строка.");
+    Console.WriteLine( $"Итог: {row+1} строка.");
         
 }
 
 Console.WriteLine("Исходный массив: ");
 int[,] matrix=CreateMatrixRndInt(3,3);
 PrintMatrix(matrix);
-Sort(matrix);
+FindMinRow(matrix);
