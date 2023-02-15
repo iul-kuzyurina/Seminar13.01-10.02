@@ -1,0 +1,15 @@
+D:\Семинары 13.01-10.02\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+D:\Семинары 13.01-10.02\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинары 13.01-10.02\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+D:\Семинары 13.01-10.02\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+D:\Семинары 13.01-10.02\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+D:\Семинары 13.01-10.02\Task66\bin\Debug\net6.0\Task66.exe
+D:\Семинары 13.01-10.02\Task66\bin\Debug\net6.0\Task66.deps.json
+D:\Семинары 13.01-10.02\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+D:\Семинары 13.01-10.02\Task66\bin\Debug\net6.0\Task66.dll
+D:\Семинары 13.01-10.02\Task66\bin\Debug\net6.0\Task66.pdb
+D:\Семинары 13.01-10.02\Task66\obj\Debug\net6.0\Task66.dll
+D:\Семинары 13.01-10.02\Task66\obj\Debug\net6.0\refint\Task66.dll
+D:\Семинары 13.01-10.02\Task66\obj\Debug\net6.0\Task66.pdb
+D:\Семинары 13.01-10.02\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+D:\Семинары 13.01-10.02\Task66\obj\Debug\net6.0\ref\Task66.dll
